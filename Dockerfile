@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-MAINTAINER Jan Grewe <jan@faked.org>
+MAINTAINER Lscythe <lscythe.git@proton.me>
 
 ENV VERSION_TOOLS "11076708"
 
