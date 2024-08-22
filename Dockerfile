@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 MAINTAINER Lscythe <lscythe.git@proton.me>
 
 ENV VERSION_TOOLS "11076708"
